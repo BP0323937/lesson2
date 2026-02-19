@@ -7,7 +7,7 @@ I am a **data scientist**
 
 ![Histogram](images/histogram-example-2.png)
 
-## Eductaion  
+## Education  
 
 ## Projects  
 
