@@ -1,2 +1,14 @@
-# lesson2
-demo
+# Data Scientist  
+### Skills  
+
+
+### About me  
+I am a **data scientist**  
+
+![Histogram](images/histogram-example-2.png)
+
+## Eductaion  
+
+## Projects  
+
+
